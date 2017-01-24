@@ -1,0 +1,24 @@
+{
+  "name": "@miez/models",
+  "version": "0.0.9",
+  "description": "A collection of useful models",
+  "engines": {
+    "node": ">=7.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miezhq/miez-models.git"
+  },
+  "contributors": [
+    "Robert Onodi (https://github.com/robert52)",
+    "Robert Richter (https://github.com/robi-richter)"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^4.7.8"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/miezhq/miez-models/issues"
+  }
+}
